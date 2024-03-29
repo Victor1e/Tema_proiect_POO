@@ -1,4 +1,4 @@
-# Tema_proiect_POO
+# Aplicatie de programari
 
 # Descriere
 Aceasta este o aplicatie c++ pentru gestionarea angajatilor si a programarilor clientilor pentru un salon care se numeste: Atelierul de tuns.
